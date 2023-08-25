@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Device"
     url: /publications/
 
-  - title: "Talks"
+  - title: "To Customer"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "To Business"
     url: /teaching/    
     
   - title: "Portfolio"
