@@ -38,19 +38,19 @@ Skills
 
 Device
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.device %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 To Customer
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.to_customer %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 To Business
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.to_business %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
