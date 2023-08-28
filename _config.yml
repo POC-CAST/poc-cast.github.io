@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "POC-CAST"
   avatar           : "profile_AI.jpg"
-  bio              : "a point-of-care tool, rapidly assesses bacterial antibiotic susceptibility for personalized treatment."
+  bio              : "a revolutionary point-of-care tool, quickly pinpoints the best antibiotic combinations for treating bacterial infections."
   location         : "Johns Hopkins University"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
