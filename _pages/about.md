@@ -21,4 +21,4 @@ Thus, there's an urgent necessity for a point-of-care platform capable of diagno
 Introducing **POC-CAST**: our innovative diagnostic platform tailored for bacterial infections. POC-CAST offers a user-friendly POC diagnostic solution for the general public and a versatile antibiotic CAST system for professional healthcare providers.
 
 For further insights into the global impact of bacterial infections, refer to our primary reference:
-[7.7 million people die from bacterial infections every year](https://www.reactgroup.org/news-and-views/news-and-opinions/year-2022/7-7-million-people-die-from-bacterial-infections-every-year/#:~:text=7.7%20million%20deaths%20around%20the%20world%20were%20found%20linked%20to,leading%20cause%20of%20death%20globally.)
+[7.7 million people die from bacterial infections every year.](https://www.reactgroup.org/news-and-views/news-and-opinions/year-2022/7-7-million-people-die-from-bacterial-infections-every-year/#:~:text=7.7%20million%20deaths%20around%20the%20world%20were%20found%20linked%20to,leading%20cause%20of%20death%20globally.)
