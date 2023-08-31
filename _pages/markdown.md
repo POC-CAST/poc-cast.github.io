@@ -16,8 +16,8 @@ redirect_from:
   * _device/
   * _our_team/
   * _posts/
-  * _to_business/
-  * _to_customer/
+  * _to_clinicians/
+  * _household_diagnosis/
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
 * Profile image (can set in _config.yml): images/profile.png

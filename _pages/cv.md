@@ -42,15 +42,15 @@ Device
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-To Customer
+Household Diagnosis
 ======
-  <ul>{% for post in site.to_customer %}
+  <ul>{% for post in site.household_diagnosis %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-To Business
+To Clinicians
 ======
-  <ul>{% for post in site.to_business %}
+  <ul>{% for post in site.to_clinicians %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   

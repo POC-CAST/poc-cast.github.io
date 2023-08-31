@@ -3,11 +3,11 @@ main:
   - title: "Device"
     url: /device/
 
-  - title: "To Customer"
-    url: /to_customer/    
+  - title: "Household Diagnosis"
+    url: /household_diagnosis/    
 
-  - title: "To Business"
-    url: /to_business/    
+  - title: "To Clinicians"
+    url: /to_clinicians/    
     
   - title: " Our Team"
     url: /our_team/

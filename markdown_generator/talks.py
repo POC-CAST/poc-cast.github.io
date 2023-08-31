@@ -1,9 +1,9 @@
 
 # coding: utf-8
 
-# # To Customer markdown generator for academicpages
+# # Household Diagnosis markdown generator for academicpages
 # 
-# Takes a TSV of to_customer with metadata and converts them for use with [academicpages.github.io](academicpages.github.io). This is an interactive Jupyter notebook ([see more info here](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html)). The core python code is also in `to_customer.py`. Run either from the `markdown_generator` folder after replacing `to_customer.tsv` with one containing your data.
+# Takes a TSV of household_diagnosis with metadata and converts them for use with [academicpages.github.io](academicpages.github.io). This is an interactive Jupyter notebook ([see more info here](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html)). The core python code is also in `household_diagnosis.py`. Run either from the `markdown_generator` folder after replacing `household_diagnosis.tsv` with one containing your data.
 # 
 # TODO: Make this work with BibTex and other databases, rather than Stuart's non-standard TSV format and citation style.
 
@@ -20,7 +20,7 @@ import os
 # - Fields that cannot be blank: `title`, `url_slug`, `date`. All else can be blank. `type` defaults to "Talk" 
 # - `date` must be formatted as YYYY-MM-DD.
 # - `url_slug` will be the descriptive part of the .md file and the permalink URL for the page about the paper. 
-#     - The .md file will be `YYYY-MM-DD-[url_slug].md` and the permalink will be `https://[yourdomain]/to_customer/YYYY-MM-DD-[url_slug]`
+#     - The .md file will be `YYYY-MM-DD-[url_slug].md` and the permalink will be `https://[yourdomain]/household_diagnosis/YYYY-MM-DD-[url_slug]`
 #     - The combination of `url_slug` and `date` must be unique, as it will be the basis for your filenames
 # 
 
@@ -33,8 +33,8 @@ import os
 
 # In[3]:
 
-to_customer = pd.read_csv("to_customer.tsv", sep="\t", header=0)
-to_customer
+household_diagnosis = pd.read_csv("household_diagnosis.tsv", sep="\t", header=0)
+household_diagnosis
 
 
 # ## Escape special characters
@@ -64,21 +64,21 @@ def html_escape(text):
 
 loc_dict = {}
 
-for row, item in to_customer.iterrows():
+for row, item in household_diagnosis.iterrows():
     
     md_filename = str(item.date) + "-" + item.url_slug + ".md"
     html_filename = str(item.date) + "-" + item.url_slug 
     year = item.date[:4]
     
     md = "---\ntitle: \""   + item.title + '"\n'
-    md += "collection: to_customer" + "\n"
+    md += "collection: household_diagnosis" + "\n"
     
     if len(str(item.type)) > 3:
         md += 'type: "' + item.type + '"\n'
     else:
         md += 'type: "Talk"\n'
     
-    md += "permalink: /to_customer/" + html_filename + "\n"
+    md += "permalink: /household_diagnosis/" + html_filename + "\n"
     
     if len(str(item.venue)) > 3:
         md += 'venue: "' + item.venue + '"\n'
@@ -103,9 +103,9 @@ for row, item in to_customer.iterrows():
     md_filename = os.path.basename(md_filename)
     #print(md)
     
-    with open("../_to_customer/" + md_filename, 'w') as f:
+    with open("../_household_diagnosis/" + md_filename, 'w') as f:
         f.write(md)
 
 
-# These files are in the to_customer directory, one directory below where we're working from.
+# These files are in the household_diagnosis directory, one directory below where we're working from.
 
