@@ -74,7 +74,7 @@ for row, item in device.iterrows():
     
     md += """collection: device"""
     
-    md += """\npermalink: /publication/""" + html_filename
+    md += """\npermalink: /device/""" + html_filename
     
     if len(str(item.excerpt)) > 5:
         md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
