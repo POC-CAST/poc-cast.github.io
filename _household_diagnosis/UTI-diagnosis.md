@@ -12,5 +12,6 @@ This is a description of the preloaded UTI diagnosis cartridge.
 Preloaded UTI diagnosis cartridge is a cartridge that can be used to diagnose UTI... To be continued.
 
 Example: Urinary tract infection
+
 ![Editing a markdown file for a talk](/images/toilet.jpeg)
 
