@@ -1,7 +1,8 @@
 ---
 title: "Our Device"
-layout: device
+collection: device
 permalink: /device/devices/
+excerpt: 'This section is left for To be continued pages.'
 ---
 
 
