@@ -9,8 +9,13 @@ main:
   - title: "To Clinicians"
     url: /to_clinicians/    
     
+<<<<<<< HEAD
   - title: " Contact Us"
     url: /contact_us/
+=======
+  - title: " Our Team"
+    url: /our_team/
+>>>>>>> parent of 3ea6b00 (contact us update)
         
   - title: "Blog Posts"
     url: /blog_posts/
