@@ -8,4 +8,5 @@ date: 2023-08-31
 # location: "San Francisco, California"
 ---
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+This is a description of the preloaded UTI diagnosis cartridge.
+Preloaded UTI diagnosis cartridge is a cartridge that can be used to diagnose UTI... To be continued.
