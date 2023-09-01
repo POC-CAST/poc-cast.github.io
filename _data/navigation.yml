@@ -10,7 +10,7 @@ main:
     url: /to_clinicians/    
     
   - title: " Contact Us"
-    url: /our_team/
+    url: /contact_us/
         
   - title: "Blog Posts"
     url: /blog_posts/

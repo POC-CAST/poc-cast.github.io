@@ -14,7 +14,7 @@ redirect_from:
 * Single pages: _pages/
 * Collections of pages are .md or .html files in:
   * _device/
-  * _our_team/
+  * _contact_us/
   * _posts/
   * _to_clinicians/
   * _household_diagnosis/

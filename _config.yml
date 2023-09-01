@@ -181,7 +181,7 @@ collections:
   device:
     output: true
     permalink: /:collection/:path/
-  our_team:
+  contact_us:
     output: true
     permalink: /:collection/:path/
   household_diagnosis:
@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _our_team
+  # _contact_us
   - scope:
       path: ""
-      type: our_team
+      type: contact_us
     values:
       layout: single
       author_profile: true
