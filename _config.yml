@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "POC-CAST / About Us"
+title                    : "POCKET-CAST / About Us"
 title_separator          : "-"
-name                     : &name "POC-CAST"
+name                     : &name "POCKET-CAST"
 description              : &description "personal description"
 url                      : https://pocket-cast.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "POC-CAST/pocket-cast.github.io"
+repository               : "POCKET-CAST/pocket-cast.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "POC-CAST"
+  name             : "POCKET-CAST"
   avatar           : "profile_AI.jpg"
   bio              : "a revolutionary point-of-care tool, quickly pinpoints the best antibiotic combinations for treating bacterial infections."
   location         : "Johns Hopkins University"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "POC-CAST"
+  github           : "POCKET-CAST"
   google_plus      :
   keybase          :
   instagram        :

@@ -5,7 +5,7 @@ permalink: /device/devices/
 ---
 
 
-# POC-CAST Mark1
+# POCKET-CAST Mark1
 ## Workflow: plug & play
 ### plug
 #### Sample to cartridge
