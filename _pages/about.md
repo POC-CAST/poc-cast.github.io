@@ -1,4 +1,5 @@
 ---
+layout: main_single
 permalink: /
 title: "POCKET-CAST: Point-Of-Care Kinetics Examination of Combinational Antibiotics Susceptibility Test"
 excerpt: "About Us"
@@ -7,6 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 
 **POCKET-CAST** combines two pivotal elements: **POCKET**, which stands for **Point-Of-Care Kinetics Examination Technologies**, and **CAST**, an acronym for **Combinational Antibiotics Susceptibility Test**. Point-of-care (POC) testing is conducted directly at the patient's location rather than in a central or external lab. POC tests are applicable to blood, urine, mucosal swabs, or saliva samples. With POCKET-CAST, our vision is to reshape the landscape of personalized medicine, especially targeting bacterial infections.
 
