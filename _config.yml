@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "POCKET-CAST"
-  avatar           : "profile_AI.jpg"
+  avatar           : "profile_AI.png"
   bio              : "a revolutionary point-of-care tool, quickly pinpoints the best antibiotic combinations for treating bacterial infections."
   location         : "Johns Hopkins University"
   employer         :
