@@ -1,10 +1,13 @@
 ---
-layout: main_single
-permalink: /contact/
+permalink: /contact_us/
 title: "Contact Us"
 excerpt: "Contact Us"
 author_profile: true
+redirect_from: 
+  - /contact_us/
+  - /contact_us.html
 ---
+
 
 
 ## Contact Us
