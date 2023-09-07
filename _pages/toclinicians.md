@@ -30,7 +30,7 @@ Our solutions are engineered for efficiency. We empower you to optimize your dia
 
 <h2 style="color: #026d8a"> Key Benefits </h2>
 
-<h2 style="color: #eea656"> Adaptability </h3>
+<h3 style="color: #eea656"> Adaptability </h3>
 
 Address the specific healthcare challenges of your region or patient demographics. 
 
