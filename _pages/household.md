@@ -9,6 +9,10 @@ author_profile: true
 
 Our primary focus in this segment is to provide you with cutting-edge diagnostic devices tailored for individual use. In addition to the device itself, we offer a range of diagnosis consumables, including disease-specific cartridges designed for various conditions such as UTIs and more. Our goal is to simplify your diagnostic process by segmenting cartridges by disease type, ensuring you only purchase what you need. 
 
+Example: Urinary tract infection
+
+![Editing a markdown file for a talk](/images/toilet.jpeg)
+
 ## Key Features: 
 
 - **Diagnostic Device for Individual Use**: POCKET-CAST™ offers a user-friendly diagnostic device, perfect for at-home or on-the-go testing. Our device provides accurate and reliable results, putting the power of diagnosis in your hands. 
