@@ -31,7 +31,7 @@ POCKET-CAST ™ is designed to streamline your diagnostic experience. With our d
 
 - **Disease-Specific Cartridges**: Browse our range of cartridges designed for various diseases, making testing simple and precise. 
 
-- **Reaction Consumables**: Ensure you always have the necessary consumables to perform your tests with our reaction consumables. 
+<!-- - **Reaction Consumables**: Ensure you always have the necessary consumables to perform your tests with our reaction consumables.  -->
 
 {% for post in site.household_diagnosis %}
   {% include archive-single.html %}
