@@ -11,7 +11,7 @@ Our primary focus in this segment is to provide you with cutting-edge diagnostic
 
 Example: Urinary tract infection
 
-![Editing a markdown file for a talk](/images/toilet.jpeg)
+![Urinary tract infection](/images/toilet.jpeg)
 
 ## Key Features: 
 
