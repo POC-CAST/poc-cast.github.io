@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: archive
 title: "Device"
 permalink: /device/
@@ -13,4 +13,4 @@ author_profile: true
 
 {% for post in site.device reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
