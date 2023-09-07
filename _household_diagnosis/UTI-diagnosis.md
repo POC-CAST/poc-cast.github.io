@@ -2,7 +2,7 @@
 title: "Preloaded UTI diagnosis cartridge"
 collection: household_diagnosis
 type: "Talk"
-permalink: /household_diagnosis/UTI-diagnosis
+permalink: /household_diagnosis_abandoned/UTI-diagnosis
 # venue: "UC San Francisco, Department of Testing"
 date: 2023-08-31
 # location: "San Francisco, California"

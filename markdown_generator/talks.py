@@ -78,7 +78,7 @@ for row, item in household_diagnosis.iterrows():
     else:
         md += 'type: "Talk"\n'
     
-    md += "permalink: /household_diagnosis/" + html_filename + "\n"
+    md += "permalink: /household_diagnosis_abandoned/" + html_filename + "\n"
     
     if len(str(item.venue)) > 3:
         md += 'venue: "' + item.venue + '"\n'
