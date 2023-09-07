@@ -14,15 +14,19 @@ redirect_from:
 
 ## Overview
 
+<div style="text-align:center;">
+    <img src="images/statics.png" alt="Statics" width="75%" />
+    <em>Statics: Cause of Death.</em>
+</div>
+
+
 In 2019, an alarming revelation spotlighted bacterial infections as the culprits behind a staggering 7.7 million global deaths, marking them as the second leading cause of death. Such infections, including urinary tract infections and food poisoning, have a profound impact on the quality of life. Traditional culture-based methods for bacterial ID and CAST, though pivotal, often require extended durations, leading to treatment delays and overuse of broad-spectrum antibiotics. Many existing diagnostic tools are either expensive, necessitate specialized training, or suffer from low throughput.
 
-<img src="images/statics.png" alt="Statics" width="50%" />
 
-<em>Statics: Cause of Death.</em>
-
-<img src="/images/Ecoli.jpg" alt="Ecoli" width="50%" />
-
-<em>Ecoli, one of the major UTI pathogen.</em>
+<div style="text-align:center;">
+    <img src="/images/Ecoli.jpg" alt="Ecoli" width="40%" />
+    <em>Ecoli, one of the major UTI pathogen.</em>
+</div>
 
 Given this backdrop, the dire need for a rapid, point-of-care diagnostic platform that can adeptly identify bacterial infections and gauge their antibiotic susceptibility has never been more evident.
 
