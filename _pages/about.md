@@ -1,6 +1,6 @@
 ---
-layout: main_single
-permalink: /
+# layout: main_single
+permalink: /about/
 title: "POCKET-CAST: Point-Of-Care Kinetics Examination of Combinational Antibiotics Susceptibility Test"
 excerpt: "About Us"
 author_profile: true
