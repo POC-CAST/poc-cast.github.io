@@ -1,12 +1,12 @@
 ---
-permalink: /
+permalink: /contact_us/
 title: "Contact Us"
 excerpt: "Contact Us"
 author_profile: true
-redirect_from: 
-  - /contact_us/
+redirect_from:
   - /contact_us.html
 ---
+
 
 
 
