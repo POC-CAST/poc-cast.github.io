@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Our Device"
 collection: device
 permalink: /device/devices/
@@ -18,4 +18,4 @@ excerpt: 'This section is left for To be continued pages.'
 #### Result display
 # Cartridge: preloaded 
 ## Gradient generation
-# Device: condition generation, incubation, detection
+# Device: condition generation, incubation, detection -->
