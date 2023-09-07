@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "POCKET-CAST / About Us"
+title                    : "POCKET team / About Us"
 title_separator          : "-"
 name                     : &name "POCKET-CAST"
 description              : &description "personal description"
