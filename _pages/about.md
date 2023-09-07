@@ -1,7 +1,7 @@
 ---
 # layout: main_single
 permalink: /
-title: "POCKET-CAST: Point-Of-Care Kinetics Examination of Combinational Antibiotics Susceptibility Test"
+title: "POCKET-CAST: Point-Of-Care Kinetics Examination Technologies of Combinational Antibiotics Susceptibility Test"
 excerpt: "About Us"
 author_profile: true
 redirect_from: 
