@@ -1,4 +1,5 @@
 ---
+layout: main_single
 permalink: /
 title: "Contact Us"
 excerpt: "Contact Us"
@@ -8,6 +9,8 @@ redirect_from:
   - /contact_us.html
 ---
 
-Please reach out if have any questions about the project or opportunities.
+## Contact Us
 
-Email: czhan165@jhu.edu
+We'd love to hear from you! Whether you have questions about the project, are interested in collaboration, or just want to say hello, feel free to drop us a line.
+
+**Email**: [czhan165@jhu.edu](mailto:czhan165@jhu.edu)
