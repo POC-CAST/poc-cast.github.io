@@ -15,7 +15,7 @@ redirect_from:
 ## Overview
 
 <div style="text-align:center;">
-    <img src="images/statics.png" alt="Statics" width="75%" />
+    <img src="images/statics.png" alt="Statics" width="75%" /><br>
     <em>Statics: Cause of Death.</em>
 </div>
 
@@ -24,7 +24,7 @@ In 2019, an alarming revelation spotlighted bacterial infections as the culprits
 
 
 <div style="text-align:center;">
-    <img src="/images/Ecoli.jpg" alt="Ecoli" width="40%" />
+    <img src="/images/Ecoli.jpg" alt="Ecoli" width="40%" /><br>
     <em>Ecoli, one of the major UTI pathogen.</em>
 </div>
 
