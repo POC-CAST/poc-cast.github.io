@@ -18,7 +18,7 @@ In 2019, an alarming revelation spotlighted bacterial infections as the culprits
 
 <img src="/images/Ecoli.jpg" alt="Ecoli" width="50%" />
 
-<em>Ecoli is one of the main impact of UTI.</em>
+<em>Ecoli, one of the major UTI pathogen.</em>
 
 Given this backdrop, the dire need for a rapid, point-of-care diagnostic platform that can adeptly identify bacterial infections and gauge their antibiotic susceptibility has never been more evident.
 
