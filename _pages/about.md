@@ -5,7 +5,7 @@ title: "POCKET-CAST: Point-Of-Care Kinetics Examination of Combinational Antibio
 excerpt: "About Us"
 author_profile: true
 redirect_from: 
-  - /about/
+  # - /about/
   - /about.html
 ---
 
