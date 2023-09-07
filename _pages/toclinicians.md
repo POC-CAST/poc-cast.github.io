@@ -20,9 +20,9 @@ Welcome to our cutting-edge customizable diagnosis solutions designed exclusivel
 
 Our primary value proposition revolves around customization. We offer you not just a diagnostic device, but an entire ecosystem that adapts to your requirements. With our solutions, you can: 
 
-Customizable Cartridges: Choose from a range of customizable cartridges to target prevalent diseases or infections that are most relevant to your patient population. 
+- Customizable Cartridges: Choose from a range of customizable cartridges to target prevalent diseases or infections that are most relevant to your patient population. 
 
-Reaction Consumables: Tailor your diagnostic workflows by selecting the right reaction consumables for your specific testing protocols. 
+- Reaction Consumables: Tailor your diagnostic workflows by selecting the right reaction consumables for your specific testing protocols. 
 
 <h3 style="color: #026d8a"> Streamlined Efficiency </h3>
 
@@ -32,17 +32,17 @@ Our solutions are engineered for efficiency. We empower you to optimize your dia
 
 <h3 style="color: #026d8a"> Adaptability </h3>
 
-Address the specific healthcare challenges of your region or patient demographics. 
+- Address the specific healthcare challenges of your region or patient demographics. 
 
-Stay ahead of emerging diseases by quickly adapting your diagnostics. 
+- Stay ahead of emerging diseases by quickly adapting your diagnostics. 
 
-Minimize unnecessary costs by focusing on the most relevant tests. 
+- Minimize unnecessary costs by focusing on the most relevant tests. 
 
 <h3 style="color: #026d8a"> Revenue Stream </h3>
 
-Bulk Orders: Enjoy substantial cost savings and secure a steady revenue stream with our bulk order options. 
+- Bulk Orders: Enjoy substantial cost savings and secure a steady revenue stream with our bulk order options. 
 
-Attract More Clients: Enhance your service offerings to attract more clients and partners. 
+- Attract More Clients: Enhance your service offerings to attract more clients and partners. 
 
 <h2 style="color: #eea656"> Why Choose Us? </h2>
 
